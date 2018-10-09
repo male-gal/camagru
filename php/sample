@@ -1,0 +1,8 @@
+<?php
+$DB_DSN = '';
+$DB_USER = '';
+$DB_PASSWORD = '';
+$db = '';
+$admin_pw = '';
+$site_adress = '';
+?>
